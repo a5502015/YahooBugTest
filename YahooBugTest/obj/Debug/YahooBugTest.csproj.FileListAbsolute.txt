@@ -1,0 +1,13 @@
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\YahooBugTest.exe.config
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\YahooBugTest.exe
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\YahooBugTest.pdb
+D:\YC\YahooBugTest\YahooBugTest\obj\Debug\YahooBugTest.csprojResolveAssemblyReference.cache
+D:\YC\YahooBugTest\YahooBugTest\obj\Debug\YahooBugTest.exe
+D:\YC\YahooBugTest\YahooBugTest\obj\Debug\YahooBugTest.pdb
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\HtmlAgilityPack.dll
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\HtmlAgilityPack.pdb
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\HtmlAgilityPack.xml
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\JiebaNet.Analyser.dll
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\JiebaNet.Segmenter.dll
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\Newtonsoft.Json.dll
+D:\YC\YahooBugTest\YahooBugTest\bin\Debug\Newtonsoft.Json.xml
